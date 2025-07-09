@@ -14,15 +14,15 @@ This project creates a fullscreen background image slider that:
 
 ## ✨ Features :--
 
-- 🎞️ Smooth fade-in/fade-out transitions between slides  
-- 🖱️ Navigation buttons (Previous / Next)  
-- ⏱️ Autoplay every 5 seconds (with hover pause)  
-- 🌌 Dynamic background sync with the current slide  
-- 🧊 Frosted-glass blur effect overlay  
-- 📱 Fully responsive design
+-  Smooth fade-in/fade-out transitions between slides 🎞️
+-  Navigation buttons (Previous/Next) 🖱️
+-  Autoplay every 5 seconds (with hover pause) ⏱️
+-  Dynamic background sync with the current slide 🌌
+-  Frosted-glass blur effect overlay 🧊
+-  Fully responsive design 📱
 
 ## 🛠️ Tech Stack :--
 
-- ⚙️ **JavaScript**   
-- 🎨 **CSS3**   
-- 🧱 **HTML5** 
+-  **JavaScript** ⚙️
+-  **CSS3** 🎨
+-  **HTML5** 🧱
