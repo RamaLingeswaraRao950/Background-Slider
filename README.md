@@ -1,16 +1,28 @@
-# 🌄 Background Slider
+# 🌄 Background Image Slider
 
-A simple and elegant background image slider. The slider cycles through beautiful full-screen background images, providing a smooth and visually appealing effect.
+A visually stunning background image slider with smooth transitions, auto-play functionality, and manual navigation controls.
+
+## 📸 Description :--
+
+This project creates a fullscreen background image slider that:
+
+- Automatically cycles through high-quality images
+- Allows manual navigation with previous and next buttons
+- Features a blur overlay for a modern look
+- Updates the page background dynamically
+- Pauses autoplay when hovered for better control
 
 ## ✨ Features :--
 
-🎞️ Smooth background image transitions  
-⚙️ Auto-play with JavaScript logic  
-🎨 Clean and responsive layout  
-🖼️ Easily customizable with your own images 
+🎞️ Smooth fade-in/fade-out transitions between slides  
+🖱️ Navigation buttons (Previous / Next)  
+⏱️ Autoplay every 5 seconds (with hover pause)  
+🌌 Dynamic background sync with the current slide  
+🧊 Frosted-glass blur effect overlay  
+📱 Fully responsive design
 
 ## 🛠️ Tech Stack :--
 
-🧱 HTML5 
-🎨 CSS3
-⚙️ JavaScript
+🧱 **HTML5** – Page structure and layout  
+🎨 **CSS3** – Styling, transitions, and responsive design  
+⚙️ **JavaScript** – Slide logic, autoplay control, DOM manipulation  
